@@ -1,0 +1,6 @@
+chromadb_data
+graphs
+uploads
+__pycache__
+venv
+.env
